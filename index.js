@@ -9,4 +9,4 @@ newHeader.setAttribute('id', 'victory');
 
 // the 'newHeader' variable that points to the <h1> node with an id of 'victory' has the text "YOUR-NAME is the champion" 
 // (with your name in place of YOUR-NAME) inside it
-newHeader.textContent = 'Ogada is the champion';
+newHeader.textContent = 'Brian is the champion';
